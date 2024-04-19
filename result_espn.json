@@ -1,0 +1,86 @@
+{
+    "headers": [],
+    "data": [
+        [
+            "2024 Results"
+        ],
+        [
+            "DATE",
+            "RACE",
+            "WINNER",
+            "POLE WINNER"
+        ],
+        [
+            "Sat, Feb 3",
+            "Clash at The ColiseumLos Angeles Memorial Coliseum",
+            "Denny HamlinToyota",
+            "Denny HamlinToyota"
+        ],
+        [
+            "Thu, Feb 15",
+            "Duel #1Daytona International Speedway",
+            "Tyler ReddickToyota",
+            "Joey LoganoFord"
+        ],
+        [
+            "Thu, Feb 15",
+            "Duel #2Daytona International Speedway",
+            "Christopher BellToyota",
+            "Michael McDowellFord"
+        ],
+        [
+            "Sun, Feb 18",
+            "Daytona 500Daytona International Speedway",
+            "William ByronChevrolet",
+            "Joey LoganoFord"
+        ],
+        [
+            "Sun, Feb 25",
+            "NASCAR Cup Series at AtlantaAtlanta Motor Speedway",
+            "Daniel SuarezChevrolet",
+            "Michael McDowellFord"
+        ],
+        [
+            "Sun, Mar 3",
+            "NASCAR Cup Series at Las VegasLas Vegas Motor Speedway",
+            "Kyle LarsonChevrolet",
+            "Joey LoganoFord"
+        ],
+        [
+            "Sun, Mar 10",
+            "NASCAR Cup Series at PhoenixPhoenix Raceway",
+            "Christopher BellToyota",
+            "Denny HamlinToyota"
+        ],
+        [
+            "Sun, Mar 17",
+            "NASCAR Cup Series at BristolBristol Motor Speedway",
+            "Denny HamlinToyota",
+            "Ryan BlaneyFord"
+        ],
+        [
+            "Sun, Mar 24",
+            "NASCAR Cup Series at Circuit of the AmericasCircuit Of The Americas",
+            "William ByronChevrolet",
+            "William ByronChevrolet"
+        ],
+        [
+            "Sun, Mar 31",
+            "NASCAR Cup Series at RichmondRichmond Raceway",
+            "Denny HamlinToyota",
+            "Kyle LarsonChevrolet"
+        ],
+        [
+            "Sun, Apr 7",
+            "NASCAR Cup Series at MartinsvilleMartinsville Speedway",
+            "William ByronChevrolet",
+            "Kyle LarsonChevrolet"
+        ],
+        [
+            "Sun, Apr 14",
+            "NASCAR Cup Series at TexasTexas Motor Speedway",
+            "Chase ElliottChevrolet",
+            "Kyle LarsonChevrolet"
+        ]
+    ]
+}

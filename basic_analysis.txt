@@ -1,0 +1,11 @@
+       CLA DRIVER   # LAPS TIME INTERVAL KM/H PITS POINTS   # RETIREMENT  \
+count   40     40  40   40   40       40   40   40     40  40         40   
+unique  19     21  21    5    1       12   18   19      4  11         20   
+top                                                                        
+freq    20     20  20   20   40       22   23   22     22  30         20   
+
+       CHASSIS ENGINE  
+count       40     40  
+unique      12      5  
+top                    
+freq        19     20  

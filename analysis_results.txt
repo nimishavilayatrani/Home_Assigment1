@@ -1,0 +1,8 @@
+Basic Analysis:
+Mean Funding Amount (€) in 2020: 756421.25
+Median Funding Amount (€) in 2020: 351366.5
+Mode Funding Amount (€) in 2020: 77983
+Mean Funding Amount (€) in 2021: 1407472.75
+Median Funding Amount (€) in 2021: 729100.0
+Mode Funding Amount (€) in 2021: 509677
+Correlation between Funding Amount in 2020 and 2021: 0.9904593840604531
