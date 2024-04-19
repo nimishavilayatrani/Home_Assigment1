@@ -5,21 +5,21 @@ And results have been stored based on the requirement in List of local CarRacing
  
 Steps used in this are 
 #first Send a GET request to the webpage
-# second Parse the HTML content
-# Extract the list of car racing federations
-# put data in dataframe
-# Remove unnecessary rows which is not required
-# Save DataFrame to JSON
-# Convert DataFrame to XML
+#second Parse the HTML content
+#Extract the list of car racing federations
+#put data in dataframe
+#Remove unnecessary rows which is not required
+#Save DataFrame to JSON
+#Convert DataFrame to XML
 These are also commented in the main program
  
 2. next to full fill the other requirement. The extracted from next source which is https://www.fia.com/sites/default/files/brochure_sport_grant_programme_a4_v8_web.pdf  which was pdf it contains information of grant and funds by FIA in 2020 and 2021 based on region and based on pillar division to local car racing federation and then this data first extracted and processed for further analysis here mean, median , mode correlation function have been performed data of 2020 and 2021 first merged based on region and also based on pillar divison then comparison made this analysis for visual reprentation stored in graph such as Bar Graph, histogram, scatter plot is done this visual analysis is stored both in jpg and pdf format with the following name “bar_plot_funding based on region 2020 and 2021.jpg”, “histogram_plot_funding based on region 2020 and 2021.jpg”, “scatter_plot_funding based on region 2020 and 2021”.jpg, “bar_plot_funding based on region 2020 and 2021”.pdf, “histogram_plot_funding based on region 2020 and 2021”.pdf, “scatter_plot_funding based on region 2020 and 2021.jpg” have been stored.
 Basic analysis such as mean, median, mode, correlation, and statistical analysis are stored in a text file with the “basic analysis.txt” For these all data extracted from pdf this pdf is also stored which was extracted from the source with the name “temp.pdf”. 
 The steps used for this are
-# data extracted from the source which was pdf
-# Then download the PDF file from the URL
-# Read the downloaded PDF file and extract text from the specified pages
-# Print the extracted text from each page
+#data extracted from the source which was pdf
+#Then download the PDF file from the URL
+#Read the downloaded PDF file and extract text from the specified pages
+#Print the extracted text from each page
  
  
 Then after extracting data from the pdf and having output 
